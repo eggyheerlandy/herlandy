@@ -1,0 +1,1 @@
+<h1>Rumah Sakit <?php echo $_SESSION['name']; ?></h1>
